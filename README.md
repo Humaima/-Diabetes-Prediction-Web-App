@@ -94,9 +94,9 @@ The app will open in your default browser at http://localhost:8501
 
 ## 📈 Model Performance
 The model provides:
-✅ Binary classification (High/Low risk)
-✅ Probability scores for better interpretation
-✅ Scaled input features for consistent predictions
+- ✅ Binary classification (High/Low risk)
+- ✅ Probability scores for better interpretation
+- ✅ Scaled input features for consistent predictions
 
 ## ⚠️ Important Disclaimer
 This application is for educational and demonstration purposes only.
